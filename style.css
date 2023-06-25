@@ -66,11 +66,10 @@ header img{
   }
   
   main {
-    padding: 20px;
+    height: 1900px;
+    background-image: url(fotos/1275561\ \(1\).jpg)
   }
-  main img {
-   width: 1900px;
-  }
+
   main p{
 
 width: 500px;
