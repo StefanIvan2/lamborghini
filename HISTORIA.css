@@ -102,3 +102,11 @@ width: 800px;
     padding: 10px;
     text-align: right;
   }
+
+  @media all and (max-width: 600px){
+    div{
+        width:100%;
+        height:auto;
+        margin-left:10px;
+    }
+}
